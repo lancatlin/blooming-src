@@ -1,6 +1,6 @@
 ---
 title: "Artist 演出者"
-type: "gallery"
+type: "artists"
 url: "/artists"
 maxWidth: "800x"
 clickablePhotos: true
