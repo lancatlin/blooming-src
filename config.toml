@@ -1,4 +1,4 @@
-baseurl                  = "https://example.com"           # Your domain name
+baseurl                  = "https://lancatlin.github.io/holidays-weekend"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -18,7 +18,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "A new Hugo site."               # Max 160 characters show in search results
-    images               = ["bg.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["./bg.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Holiday's Weekend"
     # rss                = ""
 

@@ -25,13 +25,16 @@
 <link rel="stylesheet" href="{{ $defaultSkin | absURL }}">
 {{ end }}
 
-{{ with .Site.Params.overlay }}
-    <style>
-        body {
-            background-color: {{ . | safeCSS }};
-        }
-        div #overlay {
-            background-color: {{ . | safeCSS }};
-        }
-    </style>
-{{ end }}
+<style>
+    html, body {
+        margin: 0px;
+        height: 100%;
+        background-image: url({{ .Site.BaseURL | safeCSS }}/bg.jpg);
+        background-size: contain;
+        background-position: center;
+        background-blend-mode: overlay;
+        {{ with .Site.Params.overlay }}
+        background-color: {{ . | safeCSS }};
+        {{ end }}
+    }
+</style>
