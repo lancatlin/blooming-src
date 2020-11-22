@@ -1,16 +1,7 @@
 ---
-title: "About"
+title: "團體簡介"
 date: 2018-02-13T13:42:49-05:00
 ---
 
-Hello, I'm Sam. I'm a theme for [Hugo](https://gohugo.io/). I'm an extremely customizable, content-focused theme that lets you showcase your work your way. I'm [open source on GitHub](https://github.com/victoriadrake/hugo-theme-sam/).
-
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-
-I also have a simple responsive gallery feature. It'll look great on any screen, and all you have to do is provide a folder of images.
-
-If you want to get really fancy, you can add an option video background to my main page.
-
-I'm built and maintained by [Victoria Drake](https://victoria.dev) and a lovely team of [contributors](https://github.com/victoriadrake/hugo-theme-sam/graphs/contributors).
-
-This page uses the default `baseof.html` template.
+由一群多年來一同習琴的夥伴組成，樂團前身為「米可吉他重奏A團」，曾獲得2018年台灣吉他大賽重奏組冠軍、2018年亞洲國際吉他交響樂大賽重奏組冠軍。
+於2019年正式組成「Holiday」樂團，名稱源自平日分隔南北的團員們唯一相聚的週末假期。表演風格兼具狂野與抒情，希望多變的表演風格能帶給觀眾輕鬆不拘謹、充滿享受的音樂之旅。
