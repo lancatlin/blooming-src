@@ -12,27 +12,23 @@ pygmentsCodefences       = true
     dateform             = "2006 01/02"
     dateformfull         = "2006 01/02 15:04:05 EST"
     favicon              = "sam.ico"
-    homepage             = "home"                           # What to call the home page link
+    homepage             = "首頁"                           # What to call the home page link
     footerText           = "Miko Guitar 米可吉他"
     overlay = "#272932" # optional
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Holiday's Weekend"               # Max 160 characters show in search results
     images               = ["./bg.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Holiday's Weekend"
     # rss                = ""
 
 [[params.mainMenu]]
-    link = "songs"
+    link = "concert-program"
     text = "曲目"
 
 [[params.mainMenu]]
-    link = "artists"
+    link = "performers"
     text = "演出者"
-
-[[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
 
 [[params.mainMenu]]
     link = "about"

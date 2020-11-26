@@ -1,7 +1,7 @@
 ---
-title: "Artist 演出者"
+title: "Performers 演出者"
 type: "page"
-url: "/artists"
+url: "/performers"
 maxWidth: "800x"
 clickablePhotos: true
 ---
