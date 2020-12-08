@@ -1,5 +1,5 @@
 ---
-title: "Concert Program 曲目介紹"
+title: "曲目介紹"
 type: "page"
 url: "/concert-program"
 maxWidth: "800x"

@@ -1,5 +1,5 @@
 ---
-title: "Performers 演出者"
+title: "演出者"
 type: "page"
 url: "/performers"
 maxWidth: "800x"
