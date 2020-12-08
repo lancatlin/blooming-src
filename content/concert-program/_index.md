@@ -8,7 +8,7 @@ clickablePhotos: true
 ## 上半場
 
 ### 前前前世
-**Radwimps、*arr. 堺大夢***
+**Radwimps *（arr. 堺大夢）***
 
 *Soprano Guitar - 賴玠嘉 / Prime Guitar 1 - 吳博申 /  Prime Guitar 2 - 翁子茵 / Cembalo Guitar - 孟奕明 / Bass Guitar - 陸美心 / Guitarron - 蔡長廷*
 
@@ -24,7 +24,7 @@ clickablePhotos: true
 
 
 ### Waltz of the flowers from "The Nutcracker" 花的華爾茲
-**Tchaikovsky、*arr. Andrew York***
+**Tchaikovsky *（arr. Andrew York）***
 
 *Guitar 1 - 林紘妙 / Guitar 2 - 蔡長廷 / Guitar 3 - 陸美心 / Guitar 4 - 吳博申*
 
@@ -40,7 +40,7 @@ clickablePhotos: true
 
 
 ### Nuovo Cinema Paradiso 新天堂樂園
-**Ennio Morricone、*arr. 寺田和之***
+**Ennio Morricone *（arr. 寺田和之）***
 
 *Alto Guitar 1 - 林紘妙 / Alto Guitar 2 - 賴玠嘉 / Prime Guitar - 陸美心 / Bass Guitar - 孟奕明 / Guitarron - 翁子茵*
 
@@ -58,7 +58,7 @@ clickablePhotos: true
 
 
 ### Part of your world from "The Little Mermaid"
-**Alan Menken、*arr. 百瀨賢午***
+**Alan Menken *（arr. 百瀨賢午）***
 
 *Alto Guitar 1 - 林紘妙 / Alto Guitar 2 - 陸美心 / Prime Guitar - 翁子茵 / Bass Guitar - 吳博申 / Guitarron - 孟奕明*
 
@@ -66,7 +66,7 @@ clickablePhotos: true
 
 
 ### Let it go from "Frozen"
-**Kristen Anderson-Lopez & Robert Lopez、*arr. 寺田和之***
+**Kristen Anderson-Lopez & Robert Lopez *（arr. 寺田和之）***
 
 *Alto Guitar 1 - 林紘妙 / Alto Guitar 2 - 賴玠嘉 / Prime Guitar - 翁子茵 / Bass Guitar - 孟奕明 / Guitarron - 蔡長廷*
 
@@ -74,7 +74,7 @@ clickablePhotos: true
 
 
 ### 紅蓮華
-**草野華余子、*arr. 田中重次***
+**草野華余子 *（arr. 田中重次）***
 
 *Soprano Guitar - 賴玠嘉 / Prime Guitar 1 - 吳博申 /  Prime Guitar 2 - 翁子茵 / Cembalo Guitar - 孟奕明 / Bass Guitar - 陸美心 / Guitarron - 蔡長廷*
 
