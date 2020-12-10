@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "2006 01/02 15:04:05 EST"
     favicon              = "guitar.svg"
     homepage             = "首頁"                           # What to call the home page link
-    footerText           = "Miko Guitar 米可吉他"
+    footerText           = "[Miko Guitar 米可吉他](https://mikoguitar.com.tw/)"
     overlay = "#272932" # optional
 
 # Metadata for Open Graph and Twitter
