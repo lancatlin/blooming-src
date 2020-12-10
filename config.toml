@@ -34,5 +34,9 @@ pygmentsCodefences       = true
     link = "about"
     text = "團體簡介"
 
+[[params.mainMenu]]
+    link = "https://forms.gle/74rBJGWA73wDsxoS6"
+    text = "回饋問卷"
+
 [imaging]
     quality = 0
